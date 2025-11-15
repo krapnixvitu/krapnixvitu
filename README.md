@@ -1,4 +1,5 @@
-## Hi there 👋
+## Projects Completed - 2025
+#### WaveSculptor22 Motor Controller CAN Simulator (based on ESP32)
 
 <!--
 **krapnixvitu/krapnixvitu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
